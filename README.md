@@ -9,8 +9,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<p align="right">(pls ignore this gif, ill replace when i find a better one)</p>
+<div align="right">
+  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <br>
+  <p>(pls ignore this gif, ill replace when i find a better one)</p>
+</div>
 
 ###
 
